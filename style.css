@@ -34,11 +34,11 @@ body {
 
 @media (max-width: 700px) {
     .time span {
-        font-size: 70px;
+        font-size: 30px;
     }
 
     .time p {
-        font-size: 30px;
+        font-size: 18px;
     }
 }
 
