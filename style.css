@@ -32,6 +32,16 @@ body {
     text-shadow: 0 0 10px white;
 }
 
+@media (min-width: 700px) {
+    .time span {
+        font-size: 70px;
+    }
+
+    .time p {
+        font-size: 30px;
+    }
+}
+
 
 
 @keyframes nuqta {
