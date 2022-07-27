@@ -28,7 +28,7 @@ function times() {
     else {
         secund.innerHTML = time.getSeconds()
     }
-    day.innerHTML = time.getDay() + months[time.getMonth()] + " " + time.getFullYear()
+    day.innerHTML = time.getDate() + months[time.getMonth()] + " " + time.getFullYear()
 }
 
 times()
